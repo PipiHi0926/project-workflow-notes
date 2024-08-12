@@ -27,14 +27,14 @@
 - Assist in production line decision-making and parameter setting, replacing previous experience-based rules.
 
 ### 效益:
-#### 😐 As-is 
+#### As-is 😐 
   - Average time for second welding point: 35.33 ms/line.
   
   - Welding product DOE time is long and trial-and-error costs are high.
   
   - Ineffective prediction of parameter adjustments’ impact on operations; improper adjustments decrease average fault elimination cycle and reduce capacity.
 
-#### 😄 To-be
+#### To-be 😄 
 
   - Average time for second welding point: 27.04 ms/line (23% improvement).
     
