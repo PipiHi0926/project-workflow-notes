@@ -42,8 +42,15 @@
     
   - Model predicts the impact of different parameter combinations on downtime with 89% accuracy and an F1 score of 91%.
 
+### 流程:
 
-
+1. 資料健檢:
+   
+   - 確認該製程所有相關資訊資料來源，如當下製程參數、測試參數、停機紀錄、產品別、製程輔助資源資訊(鋼嘴)...
+  
+   - 與domain確認各參數意義
+     
+   - 確認欄位有無空缺、異常、極端值，並與domain確認
 
 https://github.com/user-attachments/assets/7af06eb5-bfa0-40b1-8e24-4b78463181c2
 
