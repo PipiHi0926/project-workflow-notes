@@ -12,5 +12,15 @@
 ### 摘要:
 
 ------------
-# project-workflow-notes
-紀錄一些我經手專案的實踐架構、流程、方法，作為自己筆記，紀錄實行效果和未來展望
+# 📝 關鍵製程參數優化 
+<small>Key Process Parameter Optimization and forcast</small>
+
+
+
+
+
+
+https://github.com/user-attachments/assets/7af06eb5-bfa0-40b1-8e24-4b78463181c2
+
+
+
