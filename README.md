@@ -47,6 +47,8 @@
      
    - 確認欄位有無空缺、異常、極端值，並與domain確認
 
+### 工具:
+R code(資料分析與核心撰寫), shiny package(介面實現)
 https://github.com/user-attachments/assets/7af06eb5-bfa0-40b1-8e24-4b78463181c2
 
 
